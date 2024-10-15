@@ -22,7 +22,7 @@
             <div>
                 <b>Southern University of Science and Technology</b>, 2019.08-2023.06
                 <br>
-                B.S. in Mathematics and Applied Mathematics (Honors Program)
+                B.S. in Mathematics and Applied Mathematics (Fields Honors Class)
             </div>
         </td>
     </tr>
