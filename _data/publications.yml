@@ -47,8 +47,8 @@ main:
     authors: Guangji Bai*, <u><strong>Ziyang Yu*</strong></u>, Zheng Chai, Yue Cheng, Liang Zhao
     # conference_short: CVPR
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    pdf: https://arxiv.org/pdf/2308.13466v1
+    code: https://github.com/Ziyang-Yu/SAT
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
@@ -59,7 +59,7 @@ main:
                 Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao
     # conference_short: CVPR
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/pdf/2401.00625
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
