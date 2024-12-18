@@ -21,6 +21,18 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
+  - title: "DischargeQA: Benchmarking LLMs on Discharge Decision-Making Question Answering with Electronic Health Records"
+    authors: Justice Ou, Tinglin Huang, Yilun Zhao, Ziyang Yu, Peiqing Lu 
+    conference_short: Under Review of ACL 2025
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/DischargeQA.png
+
+
   - title: "Pipeline Co-training of LLM and GNN"
     authors: Guangji Bai*, <u><strong>Ziyang Yu*</strong></u>, Yunqian Fan*, Liang Zhao, Yue Cheng
     # conference_short: CVPR
