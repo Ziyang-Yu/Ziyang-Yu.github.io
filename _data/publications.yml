@@ -57,7 +57,7 @@ main:
 
   - title: "Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction"
     authors: Guangji Bai*, <u><strong>Ziyang Yu*</strong></u>, Zheng Chai, Yue Cheng, Liang Zhao
-    conference_short: SDM
+    # conference_short: SDM
     conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2308.13466v1
     code: https://github.com/Ziyang-Yu/SAT
