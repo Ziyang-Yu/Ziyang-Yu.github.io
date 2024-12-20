@@ -35,8 +35,8 @@ main:
 
   - title: "Pipeline Co-training of LLM and GNN"
     authors: Guangji Bai*, <u><strong>Ziyang Yu*</strong></u>, Yunqian Fan*, Liang Zhao, Yue Cheng
-    # conference_short: CVPR
-    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    # conference_short: SDM
+    # conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2025.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -57,8 +57,8 @@ main:
 
   - title: "Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction"
     authors: Guangji Bai*, <u><strong>Ziyang Yu*</strong></u>, Zheng Chai, Yue Cheng, Liang Zhao
-    # conference_short: CVPR
-    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    conference_short: SDM
+    conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2308.13466v1
     code: https://github.com/Ziyang-Yu/SAT
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
