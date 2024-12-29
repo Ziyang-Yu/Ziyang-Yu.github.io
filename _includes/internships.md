@@ -3,6 +3,18 @@
 <table frame="void" rules="none" style="width: 100%; border-collapse: collapse;">
     <tr style="height: 60px; border: none;">
         <td style="width: 15%; border: none; text-align: center; vertical-align: middle;">
+            <img src="../assets/img/Alibaba.png" style="width: 150px; height: auto; border: none;">
+        </td>
+        <td style="border: none; vertical-align: middle;">
+            <div>
+                <b>Alibaba Group</b>, 2025.01-Present
+                <br>
+                Senior Machine Learning Engineer
+            </div>
+        </td>
+    </tr>
+    <tr style="height: 60px; border: none;">
+        <td style="width: 15%; border: none; text-align: center; vertical-align: middle;">
             <img src="../assets/img/baidu.jpg" style="width: 150px; height: auto; border: none;">
         </td>
         <td style="border: none; vertical-align: middle;">

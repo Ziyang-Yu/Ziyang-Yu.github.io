@@ -8,8 +8,6 @@ Welcome! I’m Ziyang Yu, a master student in Electrical and Computer Engineerin
 
 My research encompasses Large Language Models, and Graph Neural Networks. I hold a strong academic background and have contributed to multiple research projects, constantly pushing the boundaries of what’s possible in the machine learning field.
 
-I have been actively looking for Ph.D. positions in <t style="color:red;">Fall 2025</t>. Feel free to reach out if there are any opportunities!
-
 ## Research Interests
 
 - **Graph Neural Networks:** Distributed training of GNN.
