@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Welcome! I’m Ziyang Yu, a master student in Electrical and Computer Engineering at University of Waterloo. Before this, I obtained my B.S. degree in Mathematics and Applied Mathematics from Southern University of Science and Technology.
+Welcome! I'm Ziyang Yu, a senior machine learning engineer at Alibaba Group. Before this, I obtained my M.Eng degree in Electrical and Computer Engineering from University of Waterloo.
 
-My research encompasses Large Language Models, and Graph Neural Networks. I hold a strong academic background and have contributed to multiple research projects, constantly pushing the boundaries of what’s possible in the machine learning field.
+My research encompasses Large Language Models, and Graph Neural Networks. I hold a strong academic background and have contributed to multiple research projects, constantly pushing the boundaries of what's possible in the machine learning field.
 
 ## Research Interests
 
