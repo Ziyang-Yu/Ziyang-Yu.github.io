@@ -8,6 +8,8 @@ Welcome! I'm Ziyang Yu, a senior machine learning engineer at Alibaba Group. Bef
 
 My research encompasses Large Language Models, and Graph Neural Networks. I hold a strong academic background and have contributed to multiple research projects, constantly pushing the boundaries of what's possible in the machine learning field.
 
+I am open to potential positions in the China/Canada/United States, including internships and full-time roles. If you're interested in collaborating or discussing opportunities, please feel free to reach out.
+
 ## Research Interests
 
 - **Graph Neural Networks:** Distributed training of GNN.
