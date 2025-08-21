@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I'm Ziyang Yu, a senior machine learning engineer at Alibaba Group. Before this, I obtained my M.Eng degree in Electrical and Computer Engineering from University of Waterloo.
+Welcome! I'm Ziyang Yu, a PhD student at Emory University. Before this, I was a senior machine learning engineer at Alibaba Group. I obtained my M.Eng degree in Electrical and Computer Engineering from University of Waterloo.
 
 My research encompasses Large Language Models, and Graph Neural Networks. I hold a strong academic background and have contributed to multiple research projects, constantly pushing the boundaries of what's possible in the machine learning field.
 
