@@ -21,11 +21,11 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
-  - title: "DischargeQA: Benchmarking LLMs on Discharge Decision-Making Question Answering with Electronic Health Records"
+  - title: "Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA"
     authors: Justice Ou, Tinglin Huang, Yilun Zhao, <u><strong>Ziyang Yu</strong></u>, Peiqing Lu 
     # conference_short: Under Review of ACL 2025
-    conference: Under Review of ACL 2025
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    conference: Under Review of ACL
+    pdf: https://arxiv.org/abs/2503.17933
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -47,7 +47,7 @@ main:
   - title: "Efficient Imputation for Patch-based Tabular Missing Data via Cluster-regularized Optimal Transport"
     authors: Yuyu Liu, Jiannan Yang, <u><strong>Ziyang Yu</strong></u>, Weishen Pan, Fei Wang, Tengfei Ma
     # conference_short: CVPR
-    conference: Under Review of AISTATS 2025
+    conference: Under Review of AISTATS
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -59,7 +59,7 @@ main:
     authors: Guangji Bai*, <u><strong>Ziyang Yu*</strong></u>, Zheng Chai, Yue Cheng, Liang Zhao
     # conference_short: SDM
     conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2308.13466v1
+    pdf: https://arxiv.org/abs/2308.13466v1
     code: https://github.com/Ziyang-Yu/SAT
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -71,7 +71,7 @@ main:
                 Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao
     # conference_short: CVPR
     # conference: Under Review of 
-    pdf: https://arxiv.org/pdf/2401.00625
+    pdf: https://arxiv.org/abs/2401.00625
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
