@@ -7,7 +7,7 @@
         </td>
         <td style="border: none; vertical-align: middle;">
             <div>
-                <b>Alibaba Group</b>, 2025.02-Present
+                <b>Alibaba Group</b>, 2025.02-2025.08
                 <br>
                 Senior Machine Learning Engineer
             </div>
