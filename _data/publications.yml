@@ -33,16 +33,16 @@ main:
     image: ./assets/img/DischargeQA.png
 
 
-  - title: "Pipeline Co-training of LLM and GNN"
-    authors: Guangji Bai*, <u><strong>Ziyang Yu*</strong></u>, Yunqian Fan*, Liang Zhao, Yue Cheng
-    # conference_short: SDM
-    conference: Under Review
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/cotraining.png
+  # - title: "Pipeline Co-training of LLM and GNN"
+  #   authors: Guangji Bai*, <u><strong>Ziyang Yu*</strong></u>, Yunqian Fan*, Liang Zhao, Yue Cheng
+  #   # conference_short: SDM
+  #   conference: Under Review
+  #   # pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # notes: Oral Presentation
+  #   image: ./assets/img/cotraining.png
 
   - title: "Efficient Imputation for Patch-based Tabular Missing Data via Cluster-regularized Optimal Transport"
     authors: Yuyu Liu, Jiannan Yang, <u><strong>Ziyang Yu</strong></u>, Weishen Pan, Fei Wang, Tengfei Ma
@@ -70,7 +70,7 @@ main:
     authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, <u><strong>Ziyang Yu</strong></u>,
                 Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao
     # conference_short: CVPR
-    # conference: Under Review of 
+    conference: Under Review of ACM Computing Surveys
     pdf: https://arxiv.org/abs/2401.00625
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
