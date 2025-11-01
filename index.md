@@ -13,7 +13,7 @@ I am open to potential positions in the China/Canada/United States, including in
 ## Research Interests
 
 - **Graph Neural Networks:** Distributed training of GNN.
-- **Applied Large Language Models:** LLM for Biology, LLM for Network.
+- **Large Language Models:** Knowledge Distillation.
 
 
 <!-- ## News
