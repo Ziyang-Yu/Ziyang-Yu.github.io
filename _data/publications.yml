@@ -24,8 +24,8 @@ main:
   - title: "Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA"
     authors: Justice Ou, Tinglin Huang, Yilun Zhao, <u><strong>Ziyang Yu</strong></u>, Peiqing Lu 
     # conference_short: Under Review of ACL 2025
-    conference: Under Review of ACL
-    pdf: https://arxiv.org/abs/2503.17933
+    conference: KDD 2025 Workshop on Prompt Optimization
+    pdf: https://openreview.net/pdf?id=SjTGEDyFj9
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -47,7 +47,7 @@ main:
   - title: "Efficient Imputation for Patch-based Tabular Missing Data via Cluster-regularized Optimal Transport"
     authors: Yuyu Liu, Jiannan Yang, <u><strong>Ziyang Yu</strong></u>, Weishen Pan, Fei Wang, Tengfei Ma
     # conference_short: CVPR
-    conference: Under Review of AISTATS
+    conference: Under Review
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
