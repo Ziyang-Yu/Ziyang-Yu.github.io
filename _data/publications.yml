@@ -48,7 +48,7 @@ main:
     authors: Yuyu Liu, Jiannan Yang, <u><strong>Ziyang Yu</strong></u>, Weishen Pan, Fei Wang, Tengfei Ma
     # conference_short: CVPR
     conference: Under Review
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://arxiv.org/abs/2601.14653
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
