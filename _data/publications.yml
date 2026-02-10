@@ -12,7 +12,7 @@ main:
     # conference_short: Under Review of ACL 2025
     conference: KDD 2025 Workshop on Prompt Optimization
     pdf: https://openreview.net/pdf?id=SjTGEDyFj9
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/jou2024/EXPRAG
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
@@ -59,7 +59,7 @@ main:
     conference: Under Review of ACM Computing Surveys
     pdf: https://arxiv.org/abs/2401.00625
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/beyond.png
