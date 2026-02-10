@@ -1,10 +1,9 @@
-
 ## Education Experience
 
 <table frame="void" rules="none" style="width: 100%; border-collapse: collapse;">
     <tr style="height: 60px; border: none;">
         <td style="width: 15%; border: none; text-align: center; vertical-align: middle;">
-            <img src="../assets/img/emory.png" style="width: 100px; height: auto; border: none;">
+            <img src="../assets/img/emory.png" style="width: 50px; height: auto; border: none;">
         </td>
         <td style="border: none; vertical-align: middle;">
             <div>
