@@ -1,15 +1,15 @@
 main:
 
-  - title: "Distilling LLM Reasoning into Graph of Concept Predictors"
-    authors: <u><strong>Ziyang Yu</strong></u>, Liang Zhao
-    # conference_short: Under Review of ACL 2025
-    conference: Under Review
-    pdf: https://arxiv.org/abs/2602.03006
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/reasoning.png
+  # - title: "Distilling LLM Reasoning into Graph of Concept Predictors"
+  #   authors: <u><strong>Ziyang Yu</strong></u>, Liang Zhao
+  #   # conference_short: Under Review of ACL 2025
+  #   conference: Under Review
+  #   pdf: https://arxiv.org/abs/2602.03006
+  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # notes: Oral Presentation
+  #   image: ./assets/img/reasoning.png
 
   - title: "Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA"
     authors: Justice Ou, Tinglin Huang, Yilun Zhao, <u><strong>Ziyang Yu</strong></u>, Peiqing Lu 
