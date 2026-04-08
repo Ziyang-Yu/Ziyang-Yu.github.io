@@ -10,7 +10,7 @@ main:
   - title: "Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA"
     authors: Justice Ou, Tinglin Huang, Yilun Zhao, <u><strong>Ziyang Yu</strong></u>, Peiqing Lu 
     # conference_short: Under Review of ACL 2025
-    conference: KDD 2025 Workshop on Prompt Optimization
+    conference: ACL 2026 
     pdf: https://openreview.net/pdf?id=SjTGEDyFj9
     code: https://github.com/jou2024/EXPRAG
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
