@@ -8,7 +8,7 @@ main:
     image: ./assets/img/reasoning.png
 
   - title: "Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA"
-    authors: Justice Ou, Tinglin Huang, Yilun Zhao, <u><strong>Ziyang Yu</strong></u>, Peiqing Lu 
+    authors: Justice Ou, Tinglin Huang, Yilun Zhao, <u><strong>Ziyang Yu</strong></u>, Peiqing Lu, Yifei Shen, Rex Ying
     # conference_short: Under Review of ACL 2025
     conference: ACL 2026 
     pdf: https://arxiv.org/abs/2503.17933
