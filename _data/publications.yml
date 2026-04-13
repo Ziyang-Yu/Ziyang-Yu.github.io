@@ -10,7 +10,7 @@ main:
   - title: "Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA"
     authors: Justice Ou, Tinglin Huang, Yilun Zhao, <u><strong>Ziyang Yu</strong></u>, Peiqing Lu, Yifei Shen, Rex Ying
     # conference_short: Under Review of ACL 2025
-    conference: Proceedings of the 64nd Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
+    conference: Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
     pdf: https://arxiv.org/abs/2503.17933
     code: https://github.com/jou2024/EXPRAG
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
