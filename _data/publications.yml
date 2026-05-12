@@ -1,5 +1,15 @@
 main:
 
+  - title: "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents"
+    authors: <u><strong>Ziyang Yu</strong></u>, Qiyue Li, Liang Zhao
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2605.08399
+
+  - title: "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents"
+    authors: Yongliang Miao, <u><strong>Ziyang Yu</strong></u>, Liang Zhao, Bowen Zhu, Hasibul Haque
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2605.08386
+
   - title: "Distilling LLM Reasoning into Graph of Concept Predictors"
     authors: <u><strong>Ziyang Yu</strong></u>, Liang Zhao
     # conference_short: Under Review of ACL 2025
