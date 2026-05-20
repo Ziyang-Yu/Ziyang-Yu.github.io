@@ -68,7 +68,7 @@ main:
     authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, <u><strong>Ziyang Yu</strong></u>,
                 Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao
     # conference_short: CVPR
-    conference: Under Review of ACM Computing Surveys
+    conference: Under Review
     pdf: https://arxiv.org/abs/2401.00625
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
