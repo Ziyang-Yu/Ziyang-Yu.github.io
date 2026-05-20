@@ -1,24 +1,5 @@
 main:
 
-  - title: "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents"
-    authors: <u><strong>Ziyang Yu</strong></u>, Qiyue Li, Liang Zhao
-    conference: Under Review
-    pdf: https://arxiv.org/abs/2605.08399
-    image: ./assets/img/cocoda.png
-
-  - title: "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents"
-    authors: Yongliang Miao*, <u><strong>Ziyang Yu*</strong></u>, Liang Zhao, Bowen Zhu, Hasibul Haque
-    conference: Under Review
-    pdf: https://arxiv.org/abs/2605.08386
-    image: ./assets/img/skilllens.png
-
-  - title: "Distilling LLM Reasoning into Graph of Concept Predictors"
-    authors: <u><strong>Ziyang Yu</strong></u>, Liang Zhao
-    # conference_short: Under Review of ACL 2025
-    conference: Under Review
-    pdf: https://arxiv.org/abs/2602.03006
-    image: ./assets/img/reasoning.png
-
   - title: "Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA"
     authors: Justice Ou, Tinglin Huang, Yilun Zhao, <u><strong>Ziyang Yu</strong></u>, Peiqing Lu, Yifei Shen, Rex Ying
     # conference_short: Under Review of ACL 2025
@@ -29,18 +10,6 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/DischargeQA.png
-
-
-  # - title: "Pipeline Co-training of LLM and GNN"
-  #   authors: Guangji Bai*, <u><strong>Ziyang Yu*</strong></u>, Yunqian Fan*, Liang Zhao, Yue Cheng
-  #   # conference_short: SDM
-  #   conference: Under Review
-  #   # pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   # notes: Oral Presentation
-  #   image: ./assets/img/cotraining.png
 
   - title: "Efficient Imputation for Patch-based Tabular Missing Data via Cluster-regularized Optimal Transport"
     authors: Yuyu Liu, Jiannan Yang, <u><strong>Ziyang Yu</strong></u>, Weishen Pan, Fei Wang, Tengfei Ma
@@ -63,6 +32,38 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/sat.png
+
+preprints:
+
+  - title: "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents"
+    authors: <u><strong>Ziyang Yu</strong></u>, Qiyue Li, Liang Zhao
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2605.08399
+    image: ./assets/img/cocoda.png
+
+  - title: "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents"
+    authors: Yongliang Miao*, <u><strong>Ziyang Yu*</strong></u>, Liang Zhao, Bowen Zhu, Hasibul Haque
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2605.08386
+    image: ./assets/img/skilllens.png
+
+  - title: "Distilling LLM Reasoning into Graph of Concept Predictors"
+    authors: <u><strong>Ziyang Yu</strong></u>, Liang Zhao
+    # conference_short: Under Review of ACL 2025
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2602.03006
+    image: ./assets/img/reasoning.png
+
+  # - title: "Pipeline Co-training of LLM and GNN"
+  #   authors: Guangji Bai*, <u><strong>Ziyang Yu*</strong></u>, Yunqian Fan*, Liang Zhao, Yue Cheng
+  #   # conference_short: SDM
+  #   conference: Under Review
+  #   # pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   # notes: Oral Presentation
+  #   image: ./assets/img/cotraining.png
 
   - title: "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models"
     authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, <u><strong>Ziyang Yu</strong></u>,
