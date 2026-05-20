@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/"><autocolor>SIAM International Conference on Data Mining (SDM25)</autocolor></a></li>
-  <li><a href="https://icml.cc/Conferences/2026/"><autocolor>International Conference on Machine Learning (ICML26)</autocolor></a></li>
+  <!-- <li><a href="https://icml.cc/Conferences/2026/"><autocolor>International Conference on Machine Learning (ICML26)</autocolor></a></li> -->
   <li><a href="https://neurips.cc/Conferences/2026"><autocolor>Neural Information Processing Systems (NeurIPS26)</autocolor></a></li>
 </ul>
 
