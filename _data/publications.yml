@@ -1,5 +1,17 @@
 main:
 
+  - title: "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models"
+    authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, <u><strong>Ziyang Yu</strong></u>,
+                Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao
+    # conference_short: CVPR
+    conference: ACM Computing Surveys <strong>(ACM-CSUR)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2401.00625
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/beyond.png
+
   - title: "Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA"
     authors: Justice Ou, Tinglin Huang, Yilun Zhao, <u><strong>Ziyang Yu</strong></u>, Peiqing Lu, Yifei Shen, Rex Ying
     # conference_short: Under Review of ACL 2025
@@ -64,15 +76,3 @@ preprints:
   #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   # notes: Oral Presentation
   #   image: ./assets/img/cotraining.png
-
-  - title: "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models"
-    authors: Guangji Bai, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, <u><strong>Ziyang Yu</strong></u>,
-                Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao
-    # conference_short: CVPR
-    conference: Under Review
-    pdf: https://arxiv.org/abs/2401.00625
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/beyond.png
